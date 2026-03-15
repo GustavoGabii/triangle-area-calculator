@@ -1,4 +1,6 @@
 # Cálculo de Área com POO
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-%20Finalizado-green?style=for-the-badge)
 
 Este projeto foi o meu primeiro programa utilizando classes e métodos para entender como a **Programação Orientada a Objetos (POO)** funciona na prática com Java. 
 
